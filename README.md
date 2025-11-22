@@ -103,12 +103,12 @@ git commit -m "Initial commit with Dockerfile and README"
 
 # Create a new empty GitHub repository:
 
-https://github.com/Vivek-Chudasama/devops-docker-linux
+https://github.com/Soham8329/devops-docker-commands.git
 
 # Then run:
 
 git branch -M main
-git remote add origin https://github.com/Vivek-Chudasama/devops-docker-linux.git
+git remote add origin https://github.com/Soham8329/devops-docker-commands.git
 git push -u origin main
 
 *3. How This Assignment Helps Me Learn DevOps, Linux, Git, and Docker*
